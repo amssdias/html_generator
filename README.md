@@ -2,7 +2,7 @@
 [django-link]: https://www.djangoproject.com/
 
 ![Python Badge](https://img.shields.io/badge/Python-3.9-blue?logo=python)
-![Python Badge](https://img.shields.io/badge/Django-3.2.4-092E20?logo=django)
+![Python Badge](https://img.shields.io/badge/Django-4.0.1-092E20?logo=django)
 
 
 <h1 align=center>HTML Generator</h1>
